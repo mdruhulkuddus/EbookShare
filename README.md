@@ -84,6 +84,28 @@
     </thead>
 </table>
 
+## Manage Cart
+<table>
+    <thead>
+        <tr>
+            <th>
+                <img src="screenshots/cart.png" alt="profile-user ss">
+            </th>
+        </tr>
+    </thead>
+</table>
+
+## Checkout with Payment
+<table>
+    <thead>
+        <tr>
+            <th>
+                <img src="screenshots/checkout.png" alt="profile-user ss">
+            </th>
+        </tr>
+    </thead>
+</table>
+
 ## User Profile Page
 <table>
     <thead>
