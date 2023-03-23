@@ -6,6 +6,8 @@
     <li>Login System</li>
     <li>Registraion System</li>
     <li>User Profile</li>
+    <li>Cart Management</li>
+    <li>Checkout</li>
     <li>Manage User</li>
     <li>Add Book</li>
     <li>Manage Book</li>
